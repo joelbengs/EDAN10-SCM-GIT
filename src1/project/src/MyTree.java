@@ -2,6 +2,7 @@ package tree;
 //test for strict long transactions
 //test2 strick long
 //någonting någonstans
+//en till
 import tree.MyNode;
 
 /**
