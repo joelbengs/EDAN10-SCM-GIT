@@ -1,5 +1,6 @@
 package tree;
 //test for strict long transactions
+//test2 strick long
 import tree.MyNode;
 
 /**
