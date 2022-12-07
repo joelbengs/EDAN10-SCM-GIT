@@ -1,5 +1,5 @@
 package tree;
-
+//test for strict long transactions
 import tree.MyNode;
 
 /**
